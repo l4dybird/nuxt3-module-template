@@ -1,4 +1,5 @@
 {
     "private": true,
-    "name": "nuxt3-module-template-playground"
+    "name": "nuxt3-module-template-playground",
+    "version": "0.0.1"
   }
