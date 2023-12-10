@@ -17,7 +17,7 @@ devDependencies:
     specifier: 3.8.2
     version: 3.8.2(rollup@3.29.4)
   '@nuxt/test-utils':
-    specifier: ^3.8.1
+    specifier: 3.8.1
     version: 3.8.1(rollup@3.29.4)(vitest@1.0.4)(vue@3.3.11)
   '@vitest/coverage-v8':
     specifier: ^1.0.4
