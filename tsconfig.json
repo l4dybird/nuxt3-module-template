@@ -4,7 +4,7 @@
       "vitest/globals"
     ],
   },
-  "extends": "./playground/.nuxt/tsconfig.json",
+  "extends": "./.nuxt/tsconfig.json",
   "include": [
     "src/**/*.ts",
     "test/*.spec.ts"
