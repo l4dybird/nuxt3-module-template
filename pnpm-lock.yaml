@@ -11,28 +11,28 @@ dependencies:
 
 devDependencies:
   '@nuxt/module-builder':
-    specifier: ^0.5.4
+    specifier: 0.5.4
     version: 0.5.4(@nuxt/kit@3.8.2)(nuxi@3.10.0)(typescript@5.3.3)
   '@nuxt/schema':
     specifier: 3.8.2
     version: 3.8.2(rollup@3.29.4)
   '@nuxt/test-utils':
-    specifier: ^3.8.1
+    specifier: 3.8.1
     version: 3.8.1(rollup@3.29.4)(vitest@1.0.4)(vue@3.3.11)
   '@vitest/coverage-v8':
-    specifier: ^1.0.4
+    specifier: 1.0.4
     version: 1.0.4(vitest@1.0.4)
   nuxt:
     specifier: ^3.8.1
     version: 3.8.2(rollup@3.29.4)(typescript@5.3.3)(vite@5.0.7)
   playwright:
-    specifier: ^1.40.1
+    specifier: 1.40.1
     version: 1.40.1
   typescript:
-    specifier: ^5.3.3
+    specifier: 5.3.3
     version: 5.3.3
   vitest:
-    specifier: ^1.0.4
+    specifier: 1.0.4
     version: 1.0.4
 
 packages:
