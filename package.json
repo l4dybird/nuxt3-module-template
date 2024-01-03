@@ -31,7 +31,7 @@
   "packageManager": "pnpm@8.14.0",
   "scripts": {
     "stub": "nuxt-build-module build --stub && nuxt-module-build prepare",
-    "build": "npm run dev:prepare && nuxt-module-build",
+    "build": "nuxt-module-build prepare && nuxt-module-build",
     "dev": "nuxi dev playground",
     "dev:build": "nuxi build playground",
     "dev:generate": "nuxi generate playground",
