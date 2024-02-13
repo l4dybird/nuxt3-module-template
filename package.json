@@ -28,7 +28,7 @@
   "files": [
     "dist"
   ],
-  "packageManager": "pnpm@8.15.1",
+  "packageManager": "pnpm@8.15.2",
   "scripts": {
     "stub": "nuxt-build-module build --stub && nuxt-module-build prepare",
     "build": "nuxt-module-build prepare && nuxt-module-build",
@@ -53,12 +53,12 @@
     "playwright": "1.41.2",
     "typescript": "5.3.3",
     "vitest": "1.2.2",
-    "vue": "3.4.15",
+    "vue": "3.4.19",
     "vue-router": "4.2.5"
   },
   "volta": {
     "node": "20.11.0",
-    "pnpm": "8.15.1"
+    "pnpm": "8.15.2"
   },
   "publishConfig": {
     "access": "public"
