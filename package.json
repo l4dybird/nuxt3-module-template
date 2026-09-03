@@ -28,7 +28,7 @@
   "files": [
     "dist"
   ],
-  "packageManager": "pnpm@9.12.1",
+  "packageManager": "pnpm@9.15.9",
   "scripts": {
     "stub": "nuxt-build-module build --stub && nuxt-module-build prepare",
     "build": "nuxt-module-build prepare && nuxt-module-build",
@@ -46,19 +46,19 @@
   },
   "devDependencies": {
     "@nuxt/module-builder": "0.8.4",
-    "@nuxt/test-utils": "3.9.0",
+    "@nuxt/test-utils": "3.23.0",
     "@nuxt/schema": "3.9.1",
     "@vitest/coverage-v8": "1.6.0",
     "nuxt": "3.9.1",
-    "playwright": "1.48.0",
-    "typescript": "5.6.3",
+    "playwright": "1.62.1",
+    "typescript": "5.9.3",
     "vitest": "1.6.0",
-    "vue": "3.5.12",
-    "vue-router": "4.4.5"
+    "vue": "3.5.42",
+    "vue-router": "4.6.4"
   },
   "volta": {
-    "node": "20.18.0",
-    "pnpm": "9.12.1"
+    "node": "20.20.2",
+    "pnpm": "9.15.9"
   },
   "publishConfig": {
     "access": "public"
